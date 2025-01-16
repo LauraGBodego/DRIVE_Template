@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.uasset filter=lfs diff=lfs merge=lfs -text
+D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+/DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
+D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset filter=lfs diff=lfs merge=lfs -text
