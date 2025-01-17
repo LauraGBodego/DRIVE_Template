@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/LEVELS/DRIVE_Scarborough_Color.umap",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MATERIALS/MASTER/M_Glass_Master.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MATERIALS/INSTANCES/M_Glass_Inst.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcSlab_Floors___Floor___HAB_Floor_FL-02_150_Screed-Bedding-Terrazzo.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcSlab_Floors___Floor___HAB_Floor_FL-02_150_Screed-Bedding-Terrazzo_2.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/Fab/Megascans/Surfaces/Seychelles_Beige_Marble_Tiles_wgildfbv/Medium/MI_wgildfbv.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/Fab/Megascans/Surfaces/Seychelles_Beige_Marble_Tiles_wgildfbv/Medium/T_wgildfbv_2K_B.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/Fab/Megascans/Surfaces/Seychelles_Beige_Marble_Tiles_wgildfbv/Medium/T_wgildfbv_2K_N.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/Fab/Megascans/Surfaces/Seychelles_Beige_Marble_Tiles_wgildfbv/Medium/T_wgildfbv_2K_ORM.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/LEVELS/DRIVE_Scarborough_Color_BuiltData.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA01/BuildingMat-00014_006.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA05/BuildingMat-00048.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA08/BuildingMat-00050_004.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA07/BuildingMat-00120_006.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA06/BuildingMat-00150_001.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA03/BuildingMat-00164_005.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA02/BuildingMat-00214_005.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/RDC/ZONA04/BuildingMat-00260_003.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Materials/Ceilings___Compound_Ceiling___HAB_IN-01_150_SoffitInsulation1.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Materials/References/Glass.uasset",
+				"D:/UE_5.5/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Srf.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Materials/Specialty_Equipment___SRS_2_Tier_Single_Sided_Bicycle_Rack-H_2600___SRS_2_Tier_Single_Sided_Bicycl.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-MMD-CNT5-S300-M3D-BST0-50001/Materials/References/SRS_Concrete.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Materials/References/SRS_HAB_BPGWallSystem-SignageZone_IWS-311.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-MMD-CNT5-S300-M3D-BST0-50001/Materials/Structural_Framing___SRS_Concrete_Grade_Beam_Rectangular___1600x30001.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/LEVELS/IVAN/DRIVE_Scarborough_IVAN.umap",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcBuildingElementProxy_Specialty_Equipment___SRS_Ticket_Gate___SRS_Ticket_Gate_Accessible.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcBuildingElementProxy_Specialty_Equipment___SRS_Ticket_Gate___SRS_Ticket_Gate_Standard.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcBuildingElementProxy_Specialty_Equipment___SRS_TVM___Fare_Ticket_Machine.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcDoor_Doors___SRS_Swing_Door___45_Double_Flush_Panel_1830X2130_220_Metal_Frame_Pull_Handle.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcDoor_Doors___SRS_Swing_Door___45_Double_Flush_Panel_1930X2130_220_Metal_Frame_Pull_Handle.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcDoor_Doors___SRS_Swing_Door___45_Double_Flush_Panel_2850X2200_220_Metal_Frame_Pull_Handle.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcDoor_Doors___SRS_Swing_Door___45_Flush_Panel_915X2130_220_Metal_Frame_Lever.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Geometries/IfcTransportElement_Vertical_Circulation___SRS_Escalator___SCS_SouthPlatformFFLToConcourseFFL.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MESH/260268-HAB-CNT5-S300-M3D-ARC0-30000/Materials/Specialty_Equipment___SRS_TVM___Fare_Ticket_Machine1.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MATERIALS/M_Glass_Master_Inst.uasset",
+				"D:/DRIVE_Plantilla/GitHub/DRIVE_Template/DRIVE_Template/Content/MATERIALS/INSTANCES/M_Glass_Master_Inst.uasset"
+			]
+		}
+	]
+}
